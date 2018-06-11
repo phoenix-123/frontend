@@ -15,7 +15,6 @@
 
 <script>
 import { Card } from "vux"
-import { Divider } from 'vux'
 
 export default {
   components: {
